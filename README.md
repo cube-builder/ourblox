@@ -1,7 +1,8 @@
 # Ourblox
 ![Maintenance](https://img.shields.io/maintenance/no/2020)
-
 This is the source code for the Ourblox public website.
+
+# THIS PROJECT IS DEAD / NO LONGER EXISTS
 
 Ourblox is now defunct and will never return.
 
